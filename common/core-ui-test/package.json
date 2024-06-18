@@ -1,0 +1,17 @@
+{
+  "name": "@vktrwlt/core-ui-test",
+  "version": "0.0.1",
+  "private": false,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  },
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}

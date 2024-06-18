@@ -1,0 +1,11 @@
+// @ts-ignore
+import { CoreHome } from "@vktrwlt/core-ui-test";
+
+export default function Home() {
+  return (
+    <div>
+      <h1>App-1</h1>
+      <CoreHome />
+    </div>
+  );
+}
